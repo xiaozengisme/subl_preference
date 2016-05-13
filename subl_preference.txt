@@ -1,0 +1,41 @@
+user-setting
+{
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"theme": "Soda Dark.sublime-theme"
+}
+
+
+phpfmt-setting
+{
+	"autocomplete": true,
+	"format_on_save": false,
+	"indent_with_space": 4,
+	"passes":
+	[
+		"StripExtraCommaInArray",
+		"AlignEquals",
+		"AutoSemicolon",
+		"AlignDoubleArrow"
+	],
+	"php_bin": "/usr/local/bin/php",
+	"psr1": true,
+	"psr1_naming": false,
+	"psr2": true,
+	"version": 4
+}
+
+installed-packages
+AdvancedNewFile
+AutoFileName
+DocBlockr
+jQuery
+Modific
+Package Control
+Pretty JSON
+SideBarEnhancements
+Theme - Soda

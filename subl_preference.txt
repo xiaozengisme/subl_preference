@@ -33,11 +33,15 @@ installed-packages
 AdvancedNewFile
 AutoFileName
 DocBlockr
+HTML-CSS-JS Prettify
 jQuery
-Modific
-Package Control
-Pretty JSON
-SideBarEnhancements
-Theme - Soda
 Markdown Preview
 MarkdownEditing
+Modific
+Package Control
+phpfmt
+Pretty JSON
+SideBarEnhancements
+SublimeCodeInter
+Terminal
+Theme - Soda

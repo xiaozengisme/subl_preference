@@ -3,10 +3,12 @@ user-setting
 	"font_size": 14,
 	"ignored_packages":
 	[
+		"phpfmt",
 		"Vintage"
 	],
 	"open_files_in_new_window": false,
-	"theme": "Soda Dark.sublime-theme"
+	"theme": "Soda Dark.sublime-theme",
+	"update_check": false
 }
 
 

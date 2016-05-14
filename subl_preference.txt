@@ -47,3 +47,4 @@ SideBarEnhancements
 SublimeCodeInter
 Terminal
 Theme - Soda
+ctags
